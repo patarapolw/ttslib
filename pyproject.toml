@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ttslib"
+version = "0.1.0.1"
+description = "TTS for both online and local usage that works"
+authors = ["patarapolw <patarapolw@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "*"
+google_speech = "^1.0"
+gtts = "^2.0"
+"ruamel.yaml" = "^0.15.74"
+importlib_resources = "^1.0"
+
+[tool.poetry.dev-dependencies]

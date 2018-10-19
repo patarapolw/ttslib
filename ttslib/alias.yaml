@@ -1,0 +1,64 @@
+ar: [ar_sa]
+ar_sa: ar_sa
+cs: [cs_cz]
+cs_cz: cs_cz
+da: [da_dk]
+da_dk: da_dk
+de: [de_de]
+de_de: de_de
+el: [el_gr]
+el_gr: el_gr
+en: [en_us, en_gb, en_scotland, en_au, en_ie, en_za, en_in]
+en_au: en_au
+en_gb: en_gb
+en_ie: en_ie
+en_in: en_in
+en_scotland: en_scotland
+en_us: en_us
+en_za: en_za
+es: [es_ar, es_es, es_mx]
+es_ar: es_ar
+es_es: es_es
+es_mx: es_mx
+fi: [fi_fi]
+fi_fi: fi_fi
+fr: [fr_ca, fr_fr]
+fr_ca: fr_ca
+fr_fr: fr_fr
+he_il: he_il
+hi: [hi_in]
+hi_in: hi_in
+hu: [hu_hu]
+hu_hu: hu_hu
+id: [id_id]
+id_id: id_id
+it: [it_it]
+it_it: it_it
+ja: [ja_jp]
+ja_jp: ja_jp
+ko: [ko_kr]
+ko_kr: ko_kr
+nb_no: nb_no
+nl: [nl_be, nl_nl]
+nl_be: nl_be
+nl_nl: nl_nl
+pl: [pl_pl]
+pl_pl: pl_pl
+pt: [pt_pt, pt_br]
+pt_br: pt_br
+pt_pt: pt_pt
+ro: [ro_ro]
+ro_ro: ro_ro
+ru: [ru_ru]
+ru_ru: ru_ru
+sk: [sk_sk]
+sk_sk: sk_sk
+sv: [sv_se]
+sv_se: sv_se
+th: [th_th]
+th_th: th_th
+tr: [tr_tr]
+tr_tr: tr_tr
+zh_cn: zh_cn
+zh_hk: zh_hk
+zh_tw: zh_tw
