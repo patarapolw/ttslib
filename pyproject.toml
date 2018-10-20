@@ -7,9 +7,9 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = "*"
-google_speech = "^1.0"
-gtts = "^2.0"
 "ruamel.yaml" = "^0.15.74"
 importlib_resources = "^1.0"
 
 [tool.poetry.dev-dependencies]
+google_speech = "^1.0"
+pyttsx3 = "^2.7"
