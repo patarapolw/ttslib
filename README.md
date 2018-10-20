@@ -48,5 +48,5 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.
 
 ## Contribution
 
-- Improve the `guess.yaml` file, as it is actually manually created.
+- Improve the [`guess.yaml`](https://github.com/patarapolw/ttslib/blob/master/ttslib/data/guess.yaml) file, as it is actually manually created.
 - Test on other OS's.
