@@ -33,4 +33,4 @@ def get_alias():
 
 
 if __name__ == '__main__':
-    get_alias()
+    to_speaker()
