@@ -47,7 +47,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.
 
 - macOS 10.13.6 - author's main OS.
 - Windows 10
-- Ubuntu MATE
+- Ubuntu MATE 18.04
+
+## Known issues
+
+- I cannot manage to install Chinese for espeak on Ubuntu. Might have to resort to `google_speech` or `MaryTTS`.
 
 ## Contribution
 

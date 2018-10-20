@@ -16,7 +16,7 @@ class Guess:
     GUESS = yaml.safe_load(read_text('ttslib.data', 'guess.yaml'))
 
     @classmethod
-    def do_guess(cls, lang_or_speaker):
+    def do_guess(cls, lang_or_speaker, _from=0):
         lang_or_speaker = normalize(lang_or_speaker)
 
         if HUMAN_OS == 'macos':
@@ -35,9 +35,10 @@ class Guess:
 
         for k, v_list in cls.GUESS.items():
             if lang_or_speaker.startswith(k):
-                for v in v_list:
-                    speaker = cls.do_guess(v)
-                    if speaker:
-                        return speaker
+                for v in v_list[_from:]:
+                    _from += 1
+                    lang_or_speaker = cls.do_guess(v, _from=_from)
+                    if lang_or_speaker:
+                        return lang_or_speaker
 
         raise ValueError('Language or speaker not supported: {}'.format(lang_or_speaker))
