@@ -1,0 +1,54 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_DAVID_11.0: !!python/object:pyttsx3.voice.Voice
+  age: null
+  gender: null
+  id: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_DAVID_11.0
+  languages: &id001 []
+  name: Microsoft David Desktop - English (United States)
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0: !!python/object:pyttsx3.voice.Voice
+  age: null
+  gender: null
+  id: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0
+  languages: *id001
+  name: Microsoft Zira Desktop - English (United States)
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ES-ES_HELENA_11.0: !!python/object:pyttsx3.voice.Voice
+  age: null
+  gender: null
+  id: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ES-ES_HELENA_11.0
+  languages: *id001
+  name: Microsoft Helena Desktop - Spanish (Spain)
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_FR-FR_HORTENSE_11.0: !!python/object:pyttsx3.voice.Voice
+  age: null
+  gender: null
+  id: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_FR-FR_HORTENSE_11.0
+  languages: *id001
+  name: Microsoft Hortense Desktop - French
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_JA-JP_HARUKA_11.0: !!python/object:pyttsx3.voice.Voice
+  age: null
+  gender: null
+  id: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_JA-JP_HARUKA_11.0
+  languages: *id001
+  name: Microsoft Haruka Desktop - Japanese
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_KO-KR_HEAMI_11.0: !!python/object:pyttsx3.voice.Voice
+  age: null
+  gender: null
+  id: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_KO-KR_HEAMI_11.0
+  languages: *id001
+  name: Microsoft Heami Desktop - Korean
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_RU-RU_IRINA_11.0: !!python/object:pyttsx3.voice.Voice
+  age: null
+  gender: null
+  id: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_RU-RU_IRINA_11.0
+  languages: *id001
+  name: Microsoft Irina Desktop - Russian
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ZH-CN_HUIHUI_11.0: !!python/object:pyttsx3.voice.Voice
+  age: null
+  gender: null
+  id: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ZH-CN_HUIHUI_11.0
+  languages: *id001
+  name: Microsoft Huihui Desktop - Chinese (Simplified)
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ZH-TW_HANHAN_11.0: !!python/object:pyttsx3.voice.Voice
+  age: null
+  gender: null
+  id: HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ZH-TW_HANHAN_11.0
+  languages: *id001
+  name: Microsoft Hanhan Desktop - Chinese (Taiwan)
