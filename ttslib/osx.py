@@ -1,23 +1,18 @@
 import subprocess
 from threading import Thread
 
-from .util import Alias
 
-
-def do_say(s, lang):
-    def _do_say(_voice):
+def do_say(s, voice, non_blocking=True):
+    def _do_say():
         subprocess.call([
             'say',
-            '-v', _voice,
+            '-v', voice,
             s
         ])
 
-    voice = Alias.to_speaker(lang)
-    if voice:
-        t = Thread(target=_do_say, args=(voice,))
+    if non_blocking:
+        t = Thread(target=_do_say)
         t.daemon = True
         t.start()
-
-        return 1
-
-    return 0
+    else:
+        _do_say()

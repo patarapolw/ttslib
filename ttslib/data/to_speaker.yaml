@@ -1,0 +1,576 @@
+afrikaans:
+  espeak: [afrikaans]
+  gtts: null
+  macos: null
+  windows: null
+albanian:
+  espeak: [albanian]
+  gtts: null
+  macos: null
+  windows: null
+ar_sa:
+  espeak: null
+  gtts: null
+  macos: [Maged]
+  windows: null
+aragonese:
+  espeak: [aragonese]
+  gtts: null
+  macos: null
+  windows: null
+armenian:
+  espeak: [armenian]
+  gtts: null
+  macos: null
+  windows: null
+armenian_west:
+  espeak: [armenian-west]
+  gtts: null
+  macos: null
+  windows: null
+bosnian:
+  espeak: [bosnian]
+  gtts: null
+  macos: null
+  windows: null
+brazil:
+  espeak: [brazil]
+  gtts: null
+  macos: null
+  windows: null
+bulgarian:
+  espeak: [bulgarian]
+  gtts: null
+  macos: null
+  windows: null
+cantonese:
+  espeak: [cantonese]
+  gtts: null
+  macos: null
+  windows: null
+catalan:
+  espeak: [catalan]
+  gtts: null
+  macos: null
+  windows: null
+chinese (simplified):
+  espeak: null
+  gtts: null
+  macos: null
+  windows: [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ZH-CN_HUIHUI_11.0]
+chinese (taiwan):
+  espeak: null
+  gtts: null
+  macos: null
+  windows: [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ZH-TW_HANHAN_11.0]
+croatian:
+  espeak: [croatian]
+  gtts: null
+  macos: null
+  windows: null
+cs_cz:
+  espeak: null
+  gtts: null
+  macos: [Zuzana]
+  windows: null
+czech:
+  espeak: [czech]
+  gtts: null
+  macos: null
+  windows: null
+da_dk:
+  espeak: null
+  gtts: null
+  macos: [Sara]
+  windows: null
+danish:
+  espeak: [danish]
+  gtts: null
+  macos: null
+  windows: null
+de_de:
+  espeak: null
+  gtts: null
+  macos: [Anna]
+  windows: null
+default:
+  espeak: [default]
+  gtts: null
+  macos: null
+  windows: null
+dutch:
+  espeak: [dutch]
+  gtts: null
+  macos: null
+  windows: null
+el_gr:
+  espeak: null
+  gtts: null
+  macos: [Melina]
+  windows: null
+en_au:
+  espeak: null
+  gtts: null
+  macos: [Karen]
+  windows: null
+en_gb:
+  espeak: null
+  gtts: null
+  macos: [Daniel]
+  windows: null
+en_ie:
+  espeak: null
+  gtts: null
+  macos: [Moira]
+  windows: null
+en_in:
+  espeak: null
+  gtts: null
+  macos: [Veena]
+  windows: null
+en_scotland:
+  espeak: null
+  gtts: null
+  macos: [Fiona]
+  windows: null
+en_scottish:
+  espeak: [en-scottish]
+  gtts: null
+  macos: null
+  windows: null
+en_us:
+  espeak: null
+  gtts: null
+  macos: [Alex, Fred, Samantha, Victoria]
+  windows: null
+en_westindies:
+  espeak: [en-westindies]
+  gtts: null
+  macos: null
+  windows: null
+en_za:
+  espeak: null
+  gtts: null
+  macos: [Tessa]
+  windows: null
+english:
+  espeak: [english]
+  gtts: null
+  macos: null
+  windows: null
+english (united states):
+  espeak: null
+  gtts: null
+  macos: null
+  windows: [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_DAVID_11.0,
+    HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0]
+english_north:
+  espeak: [english-north]
+  gtts: null
+  macos: null
+  windows: null
+english_rp:
+  espeak: [english_rp]
+  gtts: null
+  macos: null
+  windows: null
+english_us:
+  espeak: [english-us]
+  gtts: null
+  macos: null
+  windows: null
+english_wmids:
+  espeak: [english_wmids]
+  gtts: null
+  macos: null
+  windows: null
+es_ar:
+  espeak: null
+  gtts: null
+  macos: [Diego]
+  windows: null
+es_es:
+  espeak: null
+  gtts: null
+  macos: [Jorge, Monica]
+  windows: null
+es_mx:
+  espeak: null
+  gtts: null
+  macos: [Juan, Paulina]
+  windows: null
+esperanto:
+  espeak: [esperanto]
+  gtts: null
+  macos: null
+  windows: null
+estonian:
+  espeak: [estonian]
+  gtts: null
+  macos: null
+  windows: null
+fi_fi:
+  espeak: null
+  gtts: null
+  macos: [Satu]
+  windows: null
+finnish:
+  espeak: [finnish]
+  gtts: null
+  macos: null
+  windows: null
+fr_ca:
+  espeak: null
+  gtts: null
+  macos: [Amelie]
+  windows: null
+fr_fr:
+  espeak: null
+  gtts: null
+  macos: [Thomas]
+  windows: null
+french:
+  espeak: [french]
+  gtts: null
+  macos: null
+  windows: [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_FR-FR_HORTENSE_11.0]
+french_belgium:
+  espeak: [french-Belgium]
+  gtts: null
+  macos: null
+  windows: null
+georgian:
+  espeak: [georgian]
+  gtts: null
+  macos: null
+  windows: null
+german:
+  espeak: [german]
+  gtts: null
+  macos: null
+  windows: null
+greek:
+  espeak: [greek]
+  gtts: null
+  macos: null
+  windows: null
+greek_ancient:
+  espeak: [greek-ancient]
+  gtts: null
+  macos: null
+  windows: null
+he_il:
+  espeak: null
+  gtts: null
+  macos: [Carmit]
+  windows: null
+hi_in:
+  espeak: null
+  gtts: null
+  macos: [Lekha]
+  windows: null
+hindi:
+  espeak: [hindi]
+  gtts: null
+  macos: null
+  windows: null
+hu_hu:
+  espeak: null
+  gtts: null
+  macos: [Mariska]
+  windows: null
+hungarian:
+  espeak: [hungarian]
+  gtts: null
+  macos: null
+  windows: null
+icelandic:
+  espeak: [icelandic]
+  gtts: null
+  macos: null
+  windows: null
+id_id:
+  espeak: null
+  gtts: null
+  macos: [Damayanti]
+  windows: null
+indonesian:
+  espeak: [indonesian]
+  gtts: null
+  macos: null
+  windows: null
+irish_gaeilge:
+  espeak: [irish-gaeilge]
+  gtts: null
+  macos: null
+  windows: null
+it_it:
+  espeak: null
+  gtts: null
+  macos: [Alice, Luca]
+  windows: null
+italian:
+  espeak: [italian]
+  gtts: null
+  macos: null
+  windows: null
+ja_jp:
+  espeak: null
+  gtts: null
+  macos: [Kyoko]
+  windows: null
+japanese:
+  espeak: null
+  gtts: null
+  macos: null
+  windows: [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_JA-JP_HARUKA_11.0]
+kannada:
+  espeak: [kannada]
+  gtts: null
+  macos: null
+  windows: null
+ko_kr:
+  espeak: null
+  gtts: null
+  macos: [Yuna]
+  windows: null
+korean:
+  espeak: null
+  gtts: null
+  macos: null
+  windows: [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_KO-KR_HEAMI_11.0]
+kurdish:
+  espeak: [kurdish]
+  gtts: null
+  macos: null
+  windows: null
+latin:
+  espeak: [latin]
+  gtts: null
+  macos: null
+  windows: null
+latvian:
+  espeak: [latvian]
+  gtts: null
+  macos: null
+  windows: null
+lingua_franca_nova:
+  espeak: [lingua_franca_nova]
+  gtts: null
+  macos: null
+  windows: null
+lithuanian:
+  espeak: [lithuanian]
+  gtts: null
+  macos: null
+  windows: null
+lojban:
+  espeak: [lojban]
+  gtts: null
+  macos: null
+  windows: null
+macedonian:
+  espeak: [macedonian]
+  gtts: null
+  macos: null
+  windows: null
+malay:
+  espeak: [malay]
+  gtts: null
+  macos: null
+  windows: null
+malayalam:
+  espeak: [malayalam]
+  gtts: null
+  macos: null
+  windows: null
+mandarin:
+  espeak: [Mandarin]
+  gtts: null
+  macos: null
+  windows: null
+nb_no:
+  espeak: null
+  gtts: null
+  macos: [Nora]
+  windows: null
+nepali:
+  espeak: [nepali]
+  gtts: null
+  macos: null
+  windows: null
+nl_be:
+  espeak: null
+  gtts: null
+  macos: [Ellen]
+  windows: null
+nl_nl:
+  espeak: null
+  gtts: null
+  macos: [Xander]
+  windows: null
+norwegian:
+  espeak: [norwegian]
+  gtts: null
+  macos: null
+  windows: null
+persian:
+  espeak: [persian]
+  gtts: null
+  macos: null
+  windows: null
+persian_pinglish:
+  espeak: [persian-pinglish]
+  gtts: null
+  macos: null
+  windows: null
+pl_pl:
+  espeak: null
+  gtts: null
+  macos: [Zosia]
+  windows: null
+polish:
+  espeak: [polish]
+  gtts: null
+  macos: null
+  windows: null
+portugal:
+  espeak: [portugal]
+  gtts: null
+  macos: null
+  windows: null
+pt_br:
+  espeak: null
+  gtts: null
+  macos: [Luciana]
+  windows: null
+pt_pt:
+  espeak: null
+  gtts: null
+  macos: [Joana]
+  windows: null
+punjabi:
+  espeak: [punjabi]
+  gtts: null
+  macos: null
+  windows: null
+ro_ro:
+  espeak: null
+  gtts: null
+  macos: [Ioana]
+  windows: null
+romanian:
+  espeak: [romanian]
+  gtts: null
+  macos: null
+  windows: null
+ru_ru:
+  espeak: null
+  gtts: null
+  macos: [Milena, Yuri]
+  windows: null
+russian:
+  espeak: [russian]
+  gtts: null
+  macos: null
+  windows: [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_RU-RU_IRINA_11.0]
+serbian:
+  espeak: [serbian]
+  gtts: null
+  macos: null
+  windows: null
+sk_sk:
+  espeak: null
+  gtts: null
+  macos: [Laura]
+  windows: null
+slovak:
+  espeak: [slovak]
+  gtts: null
+  macos: null
+  windows: null
+spanish:
+  espeak: [spanish]
+  gtts: null
+  macos: null
+  windows: null
+spanish (spain):
+  espeak: null
+  gtts: null
+  macos: null
+  windows: [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ES-ES_HELENA_11.0]
+spanish_latin_am:
+  espeak: [spanish-latin-am]
+  gtts: null
+  macos: null
+  windows: null
+sv_se:
+  espeak: null
+  gtts: null
+  macos: [Alva]
+  windows: null
+swahili_test:
+  espeak: [swahili-test]
+  gtts: null
+  macos: null
+  windows: null
+swedish:
+  espeak: [swedish]
+  gtts: null
+  macos: null
+  windows: null
+tamil:
+  espeak: [tamil]
+  gtts: null
+  macos: null
+  windows: null
+th_th:
+  espeak: null
+  gtts: null
+  macos: [Kanya]
+  windows: null
+tr_tr:
+  espeak: null
+  gtts: null
+  macos: [Yelda]
+  windows: null
+turkish:
+  espeak: [turkish]
+  gtts: null
+  macos: null
+  windows: null
+vietnam:
+  espeak: [vietnam]
+  gtts: null
+  macos: null
+  windows: null
+vietnam_hue:
+  espeak: [vietnam_hue]
+  gtts: null
+  macos: null
+  windows: null
+vietnam_sgn:
+  espeak: [vietnam_sgn]
+  gtts: null
+  macos: null
+  windows: null
+welsh:
+  espeak: [welsh]
+  gtts: null
+  macos: null
+  windows: null
+zh_cn:
+  espeak: null
+  gtts: null
+  macos: [Ting-Ting]
+  windows: null
+zh_hk:
+  espeak: null
+  gtts: null
+  macos: [Sin-ji]
+  windows: null
+zh_tw:
+  espeak: null
+  gtts: null
+  macos: [Mei-Jia]
+  windows: null

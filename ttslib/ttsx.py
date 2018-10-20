@@ -2,17 +2,16 @@ from threading import Thread
 import pyttsx3
 
 
-def do_say(s, lang):
-    def _do_say(_voice):
+def do_ttsx(s, voice, non_blocking=True):
+    def _do_say():
         engine = pyttsx3.init()
+        engine.setProperty('voice', voice)
+        engine.say(s)
+        engine.runAndWait()
 
-    voice = Alias.to_speaker(lang)
-    if voice:
-        t = Thread(target=_do_say, args=(voice,))
+    if non_blocking:
+        t = Thread(target=_do_say)
         t.daemon = True
         t.start()
-
-        return 1
-
-    return 0
-
+    else:
+        _do_say()

@@ -1,0 +1,27 @@
+gtts: [af, ar, az, be, bg, bn, ca, cs, cy, da, de, el, en, eo, es, et, eu, fa, fi,
+  fr, ga, gl, gu, hi, hr, ht, hu, id, is, it, iw, ja, ka, kn, ko, la, lt, lv, mk,
+  ms, mt, nl, no, pl, pt, ro, ru, sk, sl, sq, sr, sv, sw, ta, te, th, tl, tr, uk,
+  ur, vi, yi, zh-CN, zh-TW]
+linux: [Mandarin, afrikaans, albanian, aragonese, armenian, armenian-west, bosnian,
+  brazil, bulgarian, cantonese, catalan, croatian, czech, danish, default, dutch,
+  en-scottish, en-westindies, english, english-north, english-us, english_rp, english_wmids,
+  esperanto, estonian, finnish, french, french-Belgium, georgian, german, greek, greek-ancient,
+  hindi, hungarian, icelandic, indonesian, irish-gaeilge, italian, kannada, kurdish,
+  latin, latvian, lingua_franca_nova, lithuanian, lojban, macedonian, malay, malayalam,
+  nepali, norwegian, persian, persian-pinglish, polish, portugal, punjabi, romanian,
+  russian, serbian, slovak, spanish, spanish-latin-am, swahili-test, swedish, tamil,
+  turkish, vietnam, vietnam_hue, vietnam_sgn, welsh]
+macos: [Alex, Alice, Alva, Amelie, Anna, Carmit, Damayanti, Daniel, Diego, Ellen,
+  Fiona, Fred, Ioana, Joana, Jorge, Juan, Kanya, Karen, Kyoko, Laura, Lekha, Luca,
+  Luciana, Maged, Mariska, Mei-Jia, Melina, Milena, Moira, Monica, Nora, Paulina,
+  Samantha, Sara, Satu, Sin-ji, Tessa, Thomas, Ting-Ting, Veena, Victoria, Xander,
+  Yelda, Yuna, Yuri, Zosia, Zuzana]
+windows: [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_DAVID_11.0,
+  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.0,
+  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ES-ES_HELENA_11.0,
+  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_FR-FR_HORTENSE_11.0,
+  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_JA-JP_HARUKA_11.0,
+  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_KO-KR_HEAMI_11.0,
+  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_RU-RU_IRINA_11.0,
+  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ZH-CN_HUIHUI_11.0,
+  HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_ZH-TW_HANHAN_11.0]

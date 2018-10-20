@@ -2,551 +2,413 @@ Mandarin:
   age: null
   gender: male
   id: Mandarin
-  languages:
-  - !!binary |
-    BXpo
+  languages: [b'\x05zh']
   name: Mandarin
 afrikaans:
   age: null
   gender: male
   id: afrikaans
-  languages:
-  - !!binary |
-    BWFm
+  languages: [b'\x05af']
   name: afrikaans
 albanian:
   age: null
   gender: male
   id: albanian
-  languages:
-  - !!binary |
-    BXNx
+  languages: [b'\x05sq']
   name: albanian
 aragonese:
   age: null
   gender: male
   id: aragonese
-  languages:
-  - !!binary |
-    BWFu
+  languages: [b'\x05an']
   name: aragonese
 armenian:
   age: null
   gender: male
   id: armenian
-  languages:
-  - !!binary |
-    BWh5
+  languages: [b'\x05hy']
   name: armenian
 armenian-west:
   age: null
   gender: male
   id: armenian-west
-  languages:
-  - !!binary |
-    BWh5LXdlc3Q=
+  languages: [b'\x05hy-west']
   name: armenian-west
 bosnian:
   age: null
   gender: male
   id: bosnian
-  languages:
-  - !!binary |
-    BWJz
+  languages: [b'\x05bs']
   name: bosnian
 brazil:
   age: null
   gender: male
   id: brazil
-  languages:
-  - !!binary |
-    BXB0LWJy
+  languages: [b'\x05pt-br']
   name: brazil
 bulgarian:
   age: null
   gender: null
   id: bulgarian
-  languages:
-  - !!binary |
-    BWJn
+  languages: [b'\x05bg']
   name: bulgarian
 cantonese:
   age: null
   gender: male
   id: cantonese
-  languages:
-  - !!binary |
-    BXpoLXl1ZQ==
+  languages: [b'\x05zh-yue']
   name: cantonese
 catalan:
   age: null
   gender: male
   id: catalan
-  languages:
-  - !!binary |
-    BWNh
+  languages: [b'\x05ca']
   name: catalan
 croatian:
   age: null
   gender: male
   id: croatian
-  languages:
-  - !!binary |
-    BWhy
+  languages: [b'\x05hr']
   name: croatian
 czech:
   age: null
   gender: male
   id: czech
-  languages:
-  - !!binary |
-    BWNz
+  languages: [b'\x05cs']
   name: czech
 danish:
   age: null
   gender: male
   id: danish
-  languages:
-  - !!binary |
-    BWRh
+  languages: [b'\x05da']
   name: danish
 default:
   age: null
   gender: male
   id: default
-  languages:
-  - !!binary |
-    BWVu
+  languages: [b'\x05en']
   name: default
 dutch:
   age: null
   gender: male
   id: dutch
-  languages:
-  - !!binary |
-    BW5s
+  languages: [b'\x05nl']
   name: dutch
 en-scottish:
   age: null
   gender: male
   id: en-scottish
-  languages:
-  - !!binary |
-    BWVuLXNj
+  languages: [b'\x05en-sc']
   name: en-scottish
 en-westindies:
   age: null
   gender: male
   id: en-westindies
-  languages:
-  - !!binary |
-    BWVuLXdp
+  languages: [b'\x05en-wi']
   name: en-westindies
 english:
   age: null
   gender: male
   id: english
-  languages:
-  - !!binary |
-    AmVuLWdi
+  languages: [b'\x02en-gb']
   name: english
 english-north:
   age: null
   gender: male
   id: english-north
-  languages:
-  - !!binary |
-    BWVuLXVrLW5vcnRo
+  languages: [b'\x05en-uk-north']
   name: english-north
 english-us:
   age: null
   gender: male
   id: english-us
-  languages:
-  - !!binary |
-    AmVuLXVz
+  languages: [b'\x02en-us']
   name: english-us
 english_rp:
   age: null
   gender: male
   id: english_rp
-  languages:
-  - !!binary |
-    BWVuLXVrLXJw
+  languages: [b'\x05en-uk-rp']
   name: english_rp
 english_wmids:
   age: null
   gender: male
   id: english_wmids
-  languages:
-  - !!binary |
-    BWVuLXVrLXdtaWRz
+  languages: [b'\x05en-uk-wmids']
   name: english_wmids
 esperanto:
   age: null
   gender: male
   id: esperanto
-  languages:
-  - !!binary |
-    BWVv
+  languages: [b'\x05eo']
   name: esperanto
 estonian:
   age: null
   gender: null
   id: estonian
-  languages:
-  - !!binary |
-    BWV0
+  languages: [b'\x05et']
   name: estonian
 finnish:
   age: null
   gender: male
   id: finnish
-  languages:
-  - !!binary |
-    BWZp
+  languages: [b'\x05fi']
   name: finnish
 french:
   age: null
   gender: male
   id: french
-  languages:
-  - !!binary |
-    BWZyLWZy
+  languages: [b'\x05fr-fr']
   name: french
 french-Belgium:
   age: null
   gender: male
   id: french-Belgium
-  languages:
-  - !!binary |
-    BWZyLWJl
+  languages: [b'\x05fr-be']
   name: french-Belgium
 georgian:
   age: null
   gender: null
   id: georgian
-  languages:
-  - !!binary |
-    BWth
+  languages: [b'\x05ka']
   name: georgian
 german:
   age: null
   gender: male
   id: german
-  languages:
-  - !!binary |
-    BWRl
+  languages: [b'\x05de']
   name: german
 greek:
   age: null
   gender: male
   id: greek
-  languages:
-  - !!binary |
-    BWVs
+  languages: [b'\x05el']
   name: greek
 greek-ancient:
   age: null
   gender: male
   id: greek-ancient
-  languages:
-  - !!binary |
-    BWdyYw==
+  languages: [b'\x05grc']
   name: greek-ancient
 hindi:
   age: null
   gender: male
   id: hindi
-  languages:
-  - !!binary |
-    BWhp
+  languages: [b'\x05hi']
   name: hindi
 hungarian:
   age: null
   gender: male
   id: hungarian
-  languages:
-  - !!binary |
-    BWh1
+  languages: [b'\x05hu']
   name: hungarian
 icelandic:
   age: null
   gender: male
   id: icelandic
-  languages:
-  - !!binary |
-    BWlz
+  languages: [b'\x05is']
   name: icelandic
 indonesian:
   age: null
   gender: male
   id: indonesian
-  languages:
-  - !!binary |
-    BWlk
+  languages: [b'\x05id']
   name: indonesian
 irish-gaeilge:
   age: null
   gender: null
   id: irish-gaeilge
-  languages:
-  - !!binary |
-    BWdh
+  languages: [b'\x05ga']
   name: irish-gaeilge
 italian:
   age: null
   gender: male
   id: italian
-  languages:
-  - !!binary |
-    BWl0
+  languages: [b'\x05it']
   name: italian
 kannada:
   age: null
   gender: null
   id: kannada
-  languages:
-  - !!binary |
-    BWtu
+  languages: [b'\x05kn']
   name: kannada
 kurdish:
   age: null
   gender: male
   id: kurdish
-  languages:
-  - !!binary |
-    BWt1
+  languages: [b'\x05ku']
   name: kurdish
 latin:
   age: null
   gender: male
   id: latin
-  languages:
-  - !!binary |
-    BWxh
+  languages: [b'\x05la']
   name: latin
 latvian:
   age: null
   gender: male
   id: latvian
-  languages:
-  - !!binary |
-    BWx2
+  languages: [b'\x05lv']
   name: latvian
 lingua_franca_nova:
   age: null
   gender: male
   id: lingua_franca_nova
-  languages:
-  - !!binary |
-    BWxmbg==
+  languages: [b'\x05lfn']
   name: lingua_franca_nova
 lithuanian:
   age: null
   gender: male
   id: lithuanian
-  languages:
-  - !!binary |
-    BWx0
+  languages: [b'\x05lt']
   name: lithuanian
 lojban:
   age: null
   gender: null
   id: lojban
-  languages:
-  - !!binary |
-    BWpibw==
+  languages: [b'\x05jbo']
   name: lojban
 macedonian:
   age: null
   gender: male
   id: macedonian
-  languages:
-  - !!binary |
-    BW1r
+  languages: [b'\x05mk']
   name: macedonian
 malay:
   age: null
   gender: male
   id: malay
-  languages:
-  - !!binary |
-    BW1z
+  languages: [b'\x05ms']
   name: malay
 malayalam:
   age: null
   gender: male
   id: malayalam
-  languages:
-  - !!binary |
-    BW1s
+  languages: [b'\x05ml']
   name: malayalam
 nepali:
   age: null
   gender: male
   id: nepali
-  languages:
-  - !!binary |
-    BW5l
+  languages: [b'\x05ne']
   name: nepali
 norwegian:
   age: null
   gender: male
   id: norwegian
-  languages:
-  - !!binary |
-    BW5v
+  languages: [b'\x05no']
   name: norwegian
 persian:
   age: null
   gender: null
   id: persian
-  languages:
-  - !!binary |
-    BWZh
+  languages: [b'\x05fa']
   name: persian
 persian-pinglish:
   age: null
   gender: null
   id: persian-pinglish
-  languages:
-  - !!binary |
-    BWZhLXBpbg==
+  languages: [b'\x05fa-pin']
   name: persian-pinglish
 polish:
   age: null
   gender: male
   id: polish
-  languages:
-  - !!binary |
-    BXBs
+  languages: [b'\x05pl']
   name: polish
 portugal:
   age: null
   gender: male
   id: portugal
-  languages:
-  - !!binary |
-    BXB0LXB0
+  languages: [b'\x05pt-pt']
   name: portugal
 punjabi:
   age: null
   gender: null
   id: punjabi
-  languages:
-  - !!binary |
-    BXBh
+  languages: [b'\x05pa']
   name: punjabi
 romanian:
   age: null
   gender: male
   id: romanian
-  languages:
-  - !!binary |
-    BXJv
+  languages: [b'\x05ro']
   name: romanian
 russian:
   age: null
   gender: male
   id: russian
-  languages:
-  - !!binary |
-    BXJ1
+  languages: [b'\x05ru']
   name: russian
 serbian:
   age: null
   gender: male
   id: serbian
-  languages:
-  - !!binary |
-    BXNy
+  languages: [b'\x05sr']
   name: serbian
 slovak:
   age: null
   gender: male
   id: slovak
-  languages:
-  - !!binary |
-    BXNr
+  languages: [b'\x05sk']
   name: slovak
 spanish:
   age: null
   gender: male
   id: spanish
-  languages:
-  - !!binary |
-    BWVz
+  languages: [b'\x05es']
   name: spanish
 spanish-latin-am:
   age: null
   gender: male
   id: spanish-latin-am
-  languages:
-  - !!binary |
-    BWVzLWxh
+  languages: [b'\x05es-la']
   name: spanish-latin-am
 swahili-test:
   age: null
   gender: male
   id: swahili-test
-  languages:
-  - !!binary |
-    BXN3
+  languages: [b'\x05sw']
   name: swahili-test
 swedish:
   age: null
   gender: male
   id: swedish
-  languages:
-  - !!binary |
-    BXN2
+  languages: [b'\x05sv']
   name: swedish
 tamil:
   age: null
   gender: male
   id: tamil
-  languages:
-  - !!binary |
-    BXRh
+  languages: [b'\x05ta']
   name: tamil
 turkish:
   age: null
   gender: male
   id: turkish
-  languages:
-  - !!binary |
-    BXRy
+  languages: [b'\x05tr']
   name: turkish
 vietnam:
   age: null
   gender: male
   id: vietnam
-  languages:
-  - !!binary |
-    BXZp
+  languages: [b'\x05vi']
   name: vietnam
 vietnam_hue:
   age: null
   gender: male
   id: vietnam_hue
-  languages:
-  - !!binary |
-    BXZpLWh1ZQ==
+  languages: [b'\x05vi-hue']
   name: vietnam_hue
 vietnam_sgn:
   age: null
   gender: male
   id: vietnam_sgn
-  languages:
-  - !!binary |
-    BXZpLXNnbg==
+  languages: [b'\x05vi-sgn']
   name: vietnam_sgn
 welsh:
   age: null
   gender: male
   id: welsh
-  languages:
-  - !!binary |
-    BWN5
+  languages: [b'\x05cy']
   name: welsh
