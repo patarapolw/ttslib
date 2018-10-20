@@ -114,3 +114,5 @@ fabric.properties
 .vscode/
 .idea/
 setup.py
+venv/
+dist/
