@@ -51,7 +51,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.
 
 ## Known issues
 
-- I cannot manage to install Chinese for espeak on Ubuntu. Might have to resort to `google_speech` or `MaryTTS`.
+- I cannot manage to install Chinese for espeak on Ubuntu. Might have to resort to [`google_speech`](https://github.com/desbma/GoogleSpeech) or [`MaryTTS`](http://mary.dfki.de/).
 
 ## Contribution
 
