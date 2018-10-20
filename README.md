@@ -17,7 +17,10 @@ There might be [platform-specific requirements](https://github.com/nateshmbhat/p
 ## Usage
 
 ```python
-from ttslib import tts
+from ttslib import tts, get_supported
+print(get_supported())
+# for macOS:
+# {'ar_sa': ['Maged'], 'cs_cz': ['Zuzana'], 'da_dk': ['Sara'], 'de_de': ['Anna'], 'el_gr': ['Melina'], 'en_au': ['Karen'], 'en_gb': ['Daniel'], 'en_ie': ['Moira'], 'en_in': ['Veena'], 'en_scotland': ['Fiona'], 'en_us': ['Alex', 'Fred', 'Samantha', 'Victoria'], 'en_za': ['Tessa'], 'es_ar': ['Diego'], 'es_es': ['Jorge', 'Monica'], 'es_mx': ['Juan', 'Paulina'], 'fi_fi': ['Satu'], 'fr_ca': ['Amelie'], 'fr_fr': ['Thomas'], 'he_il': ['Carmit'], 'hi_in': ['Lekha'], 'hu_hu': ['Mariska'], 'id_id': ['Damayanti'], 'it_it': ['Alice', 'Luca'], 'ja_jp': ['Kyoko'], 'ko_kr': ['Yuna'], 'nb_no': ['Nora'], 'nl_be': ['Ellen'], 'nl_nl': ['Xander'], 'pl_pl': ['Zosia'], 'pt_br': ['Luciana'], 'pt_pt': ['Joana'], 'ro_ro': ['Ioana'], 'ru_ru': ['Milena', 'Yuri'], 'sk_sk': ['Laura'], 'sv_se': ['Alva'], 'th_th': ['Kanya'], 'tr_tr': ['Yelda'], 'zh_cn': ['Ting-Ting'], 'zh_hk': ['Sin-ji'], 'zh_tw': ['Mei-Jia']}
 tts('你好', 'zh', non_blocking=False)  # You can input either language, dialect or speaker name in the second parameter. The program will do the guess work for you.
 ```
 
@@ -50,3 +53,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_ZIRA_11.
 
 - Improve the [`guess.yaml`](https://github.com/patarapolw/ttslib/blob/master/ttslib/data/guess.yaml) file, as it is actually manually created.
 - Test on other OS's.
+
+## Related projects
+
+- [cjspeak](https://github.com/patarapolw/cjspeak) - HTML TTS server for Chinese/Japanese and Jupyter Notebook 

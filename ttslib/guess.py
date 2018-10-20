@@ -7,7 +7,7 @@ except ImportError:
     from importlib_resources import read_text
 
 
-from .util import normalize
+from .util import normalize, HUMAN_OS
 
 
 class Guess:
@@ -18,15 +18,11 @@ class Guess:
     @classmethod
     def do_guess(cls, lang_or_speaker):
         lang_or_speaker = normalize(lang_or_speaker)
-        human_os = {
-            'darwin': 'macos',
-            'win32': 'windows'
-        }.get(sys.platform, 'linux')
 
-        if human_os == 'macos':
+        if HUMAN_OS == 'macos':
             if lang_or_speaker in cls.SPEAKER['macos']:
                 return lang_or_speaker
-        elif human_os == 'windows':
+        elif HUMAN_OS == 'windows':
             if lang_or_speaker in cls.SPEAKER['windows']:
                 return lang_or_speaker
         else:
@@ -34,8 +30,8 @@ class Guess:
                 return lang_or_speaker
 
         if lang_or_speaker in cls.TO_SPEAKER.keys():
-            if cls.TO_SPEAKER[lang_or_speaker][human_os]:
-                return cls.TO_SPEAKER[lang_or_speaker][human_os][0]
+            if cls.TO_SPEAKER[lang_or_speaker][HUMAN_OS]:
+                return cls.TO_SPEAKER[lang_or_speaker][HUMAN_OS][0]
 
         for k, v_list in cls.GUESS.items():
             if lang_or_speaker.startswith(k):
@@ -44,4 +40,4 @@ class Guess:
                     if speaker:
                         return speaker
 
-        return None
+        raise ValueError('Language or speaker not supported: {}'.format(lang_or_speaker))
